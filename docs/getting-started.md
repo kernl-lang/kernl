@@ -4,7 +4,7 @@ This guide walks you through the kernl language from first principles. By the en
 
 ## Your first program
 
-Create a file called `hello.knl`:
+Create a file called `add_one.knl`:
 
 ```
 fn add_one
